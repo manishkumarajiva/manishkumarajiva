@@ -1,17 +1,16 @@
-# Profile 
+# 👋 Hi, I'm **Manish Kumar** 
 
-## Hi, I'm **Manish Kumar** 
+## A passionate **Software Developer** with expertise in building efficient server-side applications using **Node.js** and related technologies.
 
-### A passionate **Software Developer** with expertise in building efficient server-side applications using **Node.js** and related technologies. 
-
-I specialize in:
-
+### 🚀 **Specializes in:**
 - Implementing **Google OAuth 2.0** for user authentication using **Passport.js**.
 - Utilizing **JWTs** for secure API authorization.
 - Handling **large video file uploads** with **chunked uploads**.
 - Managing **user sessions** effectively for enhanced user experience.
 
-### Skills & Expertise
+---
+
+## 🛠️ **Skills & Expertise**
 
 - **∆** Building **RESTful APIs**
 - **∆** Integrating third-party services
@@ -19,8 +18,7 @@ I specialize in:
 
 ---
 
-## GitHub Stats
-
+## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Manish's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Used" />
@@ -28,22 +26,34 @@ I specialize in:
 
 ---
 
-## Connect with Me 🌐
+## 🌐 **Connect with Me**
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+<div align="center">
+  <a href="https://www.youtube.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
-## Learning & Development 📚
+## 📚 **Learning & Development**
 
-<div align="left">
+<div align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="Learning 1" />
   <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="Learning 2" />
   <img src="https://media.licdn.com/dms/image/C5112AQHKn7lkiq1biQ/article-cover_image-shrink_720_1280/0/1547730409212?e=2147483647&v=beta&t=k0l1bpdroGvYmIO2VhLb--u2FHGMoz5G8oua72AHGSE" height="100" alt="Learning 3" />
@@ -54,9 +64,9 @@ I specialize in:
 
 ---
 
-## Technologies I Work With 💻
+## 🔮 **Technologies I Will Learn**
 
-<div align="left">
+<div align="center">
   <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="React" />
   <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt="Node.js" />
   <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt="Express.js" />
