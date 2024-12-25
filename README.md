@@ -1,57 +1,28 @@
-# 👋 Hi, I'm **Manish Kumar** 
+# 🌟 Welcome to My Profile!
 
-## A passionate **Software Developer** with expertise in building efficient server-side applications using **Node.js** and related technologies.
+## 👋 **Hi, I'm Manish Kumar** 
+A passionate **Software Developer** specializing in **Node.js** and building efficient server-side applications.
 
-### 🚀 **Specializes in:**
-- Implementing **Google OAuth 2.0** for user authentication using **Passport.js**.
-- Utilizing **JWTs** for secure API authorization.
-- Handling **large video file uploads** with **chunked uploads**.
-- Managing **user sessions** effectively for enhanced user experience.
+---
+
+## 🚀 **My Specialties:**
+- **OAuth 2.0 Authentication** with **Google OAuth** using **Passport.js**  
+- **JWTs** for secure API authorization  
+- **Chunked Video Uploads** for handling large video files  
+- **Session Management** for a seamless user experience  
 
 ---
 
 ## 🛠️ **Skills & Expertise**
-
-- **∆** Building **RESTful APIs**
-- **∆** Integrating third-party services
-- **∆** Optimizing **database performance**
-
+### ✨ Core Skills
+- **Building RESTful APIs**
+- **Third-party Service Integration**
+- **Database Performance Optimization**
+- 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Manish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Used" />
-</div>
-
----
-
-## 🌐 **Connect with Me**
-
-<div align="center">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-## 📚 **Learning & Development**
+## 📚 **Learning & Development Journey**  
+I'm constantly learning new technologies to keep up with the ever-evolving software development landscape.
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="Learning 1" />
@@ -64,7 +35,8 @@
 
 ---
 
-## 🔮 **Technologies I Will Learn**
+## 🔮 **Technologies I'm Exploring**  
+Here are some of the technologies I am diving into to keep enhancing my skillset.
 
 <div align="center">
   <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="React" />
