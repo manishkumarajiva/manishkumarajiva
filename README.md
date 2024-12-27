@@ -26,7 +26,7 @@ I'm constantly learning new technologies to keep up with the ever-evolving softw
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="Learning 1" />
-  <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="Learning 2" />
+    <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="React" />
   <img src="https://media.licdn.com/dms/image/C5112AQHKn7lkiq1biQ/article-cover_image-shrink_720_1280/0/1547730409212?e=2147483647&v=beta&t=k0l1bpdroGvYmIO2VhLb--u2FHGMoz5G8oua72AHGSE" height="100" alt="Learning 3" />
   <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="100" alt="Learning 4" />
   <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="100" alt="Learning 5" />
@@ -39,7 +39,7 @@ I'm constantly learning new technologies to keep up with the ever-evolving softw
 Here are some of the technologies I am diving into to keep enhancing my skillset.
 
 <div align="center">
-  <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="React" />
+    <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="Learning 2" />
   <img src="https://img-b.udemycdn.com/course/750x422/5634404_ec85.jpg" height="100" alt="Node.js" />
   <img src="https://media.licdn.com/dms/image/D5612AQEz9KSuvhncQA/article-cover_image-shrink_600_2000/0/1704352101828?e=2147483647&v=beta&t=Onhgd9lTPevT_7LU_66JBrVXSDKcNPi6sfBo4fPt6SE" height="100" alt="Express.js" />
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/291435166/original/da728a25128f53354aa31845c782a46f7cd75b9e/develop-website-with-django-python-full-stack-developer-93a9.png" height="100" alt="Django" />
