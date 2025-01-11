@@ -1,5 +1,3 @@
-# 🌟 Welcome to My Profile!
-
 ## 👋 **Hi, I'm Manish Kumar** 
 A passionate **Software Developer** specializing in **Node.js** and building efficient server-side applications.
 
