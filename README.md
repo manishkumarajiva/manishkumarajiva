@@ -1,6 +1,7 @@
 ## 👋 **Hi, I'm Manish Kumar** 
-A passionate **Software Developer** specializing in **Node.js** and building efficient server-side applications.
-
+Passionate Node.js Developer with 1 year of experience in developing and maintaining web applications. Expertise in building
+server-side applications using Node.js, Express.js, and MongoDB. Skilled in API design, third-party service integrations (like
+payment gateways), and optimizing performance.
 ---
 
 ## 🚀 **My Specialties:**
@@ -16,8 +17,7 @@ A passionate **Software Developer** specializing in **Node.js** and building eff
 - **Building RESTful APIs**
 - **Third-party Service Integration**
 - **Database Performance Optimization**
-- 
----
+
 
 ## 📚 **Learning & Development Journey**  
 I'm constantly learning new technologies to keep up with the ever-evolving software development landscape.
