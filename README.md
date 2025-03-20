@@ -42,7 +42,7 @@ Here are some of the technologies I am diving into to keep enhancing my skillset
   <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="typescript" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyTI7aQQyBLEEtYmsz3SDeAqWA_TR5-g5Dg&s" height="100" alt="react native" />
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20241125130113100943/20-Most-Popular-Java-Applications.webp" height="100" alt="java" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRa1D4gpLTejuE2hJ4HHOF96mINmYfzYL7cw&s" height="100" alt="Django" />
+  <img src="https://wallpaperaccess.com/full/9954240.jpg" height="100" alt="springboot" />
   <img src="https://media.licdn.com/dms/image/D4D12AQHrI71EYZpXjw/article-cover_image-shrink_600_2000/0/1685149709705?e=2147483647&v=beta&t=9X2olt_GONrdGTguvEpafnHl28KZG1jDw_6n3NgRkaw" height="100" alt="Koa.js" />
   <img src="https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/06/Koa-JS.jpg" height="100" alt="Koa.js" />
 </div>
