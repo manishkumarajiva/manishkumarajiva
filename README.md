@@ -1,5 +1,4 @@
 ## 👋 **Hi, I'm Manish Kumar** 
-<img src='https://i.ibb.co/T1B2pf5/Mern-logo-repo.png' height='80px'  al='MERN'>
 Passionate Node.js Developer with 1 year of experience in developing and maintaining web applications. Expertise in building
 server-side applications using Node.js, Express.js, and MongoDB. Skilled in API design, third-party service integrations (like
 payment gateways), and optimizing performance.
@@ -10,8 +9,6 @@ payment gateways), and optimizing performance.
 - **JWTs** for secure API authorization  
 - **Chunked Video Uploads** for handling large video files  
 - **Session Management** for a seamless user experience  
-
----
 
 ## 🛠️ **Skills & Expertise**
 ### ✨ Core Skills
