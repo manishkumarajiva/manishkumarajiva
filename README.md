@@ -37,7 +37,7 @@ Here are some of the technologies I am diving into to keep enhancing my skillset
 
 <div align="center">
   <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="typescript" />
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20241125130113100943/20-Most-Popular-Java-Applications.webp" height="100" alt="python" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fFt1ppGJB2p5Q4XmTqTN7NK1DT_6UcBSpA&s" height="100" alt="python" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwHJs0DluUF2vcM2HMmdPW51qXBGZLCKnnQPl1AJw773XFnqZBgqc7uz8jtm7UK_se-Q&usqp=CAU" height="100" alt="flask" />
   <img src="https://media.licdn.com/dms/image/D4D12AQHrI71EYZpXjw/article-cover_image-shrink_600_2000/0/1685149709705?e=2147483647&v=beta&t=9X2olt_GONrdGTguvEpafnHl28KZG1jDw_6n3NgRkaw" height="100" alt="Nest.js" />
   <img src="https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/06/Koa-JS.jpg" height="100" alt="Koa.js" />
