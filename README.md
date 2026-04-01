@@ -1,20 +1,46 @@
-## 👋 **Hi, I'm Manish Kumar** 
-Passionate Full Stack Developer, developing and maintaining web applications. Expertise in building
-server-side applications using Node.js, Express.js, and MongoDB. Skilled in API design, third-party service integrations (like
-payment gateways), and optimizing performance.
+## 👋 Hi, I'm Manish Kumar
 
+Passionate Full Stack Developer, developing and maintaining web applications. Expertise in building server-side applications using Node.js, Express.js, and NestJS. Skilled in API design, third-party service integrations (Stripe, Razorpay), and optimizing performance.
 
-## 🚀 **My Specialties:**
-- **OAuth 2.0 Authentication** with **Google OAuth** using **Passport.js**  
+---
+
+## 💼 Professional Summary
+
+Software Developer with 2+ years of professional experience in full-stack and backend development. Proficient in building scalable Node.js and NestJS backend systems and modern frontends using React, Next.js, and Angular. Experienced in designing secure authentication systems with JWT and Google OAuth 2.0, integrating third-party services such as Razorpay and Stripe, and optimizing applications using PostgreSQL, PostGIS, MongoDB, and search indexing techniques like GIN and fuzzy search.
+
+Strong knowledge of state management (Redux, NgRx, RxJS), API design, and analytics integration (Google Analytics & Google Tag Manager). Quick learner with foundational knowledge in Python and Flask, focused on building secure, scalable, and maintainable applications.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python (Foundational)  
+- **Backend:** Node.js, NestJS, Express.js, REST API Development  
+- **Frontend:** React.js, Next.js, Angular, Bootstrap, React-Bootstrap  
+- **State Management:** Redux, Redux Toolkit, RxJS, NgRx  
+- **Databases:** PostgreSQL, PostGIS, MongoDB, MySQL  
+- **Search & Optimization:** GIN Index, Fuzzy Search  
+- **Authentication & Security:** JWT, Google OAuth 2.0, Passport.js  
+- **Integrations & Tools:** Razorpay, Stripe, SendGrid, Nodemailer, Postman, Swagger, Git, GitHub, VS Code, Chrome DevTools  
+- **Analytics:** Google Analytics, Google Tag Manager  
+
+---
+
+## 🚀 My Specialties
+
+- **OAuth 2.0 Authentication** with Google OAuth using Passport.js  
 - **JWTs** for secure API authorization  
 - **Chunked Video Uploads** for handling large video files  
 - **Session Management** for a seamless user experience  
 
-## 🛠️ **Skills & Expertise**
-### ✨ Core Skills
-- **Building RESTful APIs**
-- **Third-party Service Integration**
-- **Database Performance Optimization**
+---
+
+## 📫 Connect with Me
+
+- [GitHub](https://github.com/manishkumarajiva)  
+- [LinkedIn](https://www.linkedin.com/in/manish-leo/)  
+- [Email](mailto:manishkumarajiva@gmail.com)  
+- [Download Resume](https://drive.google.com/uc?export=download&id=1g2stLIJi9whtF6NrNDGo1V0HM1nICiq6)
 
 
 ## 📚 **Learning & Development Journey**  
