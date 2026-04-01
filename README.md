@@ -6,7 +6,9 @@ Passionate Full Stack Developer, developing and maintaining web applications. Ex
 
 ## 💼 Professional Summary
 
-Software Developer with 2+ years of professional experience in full-stack and backend development. Proficient in building scalable Node.js and NestJS backend systems and modern frontends using React, Next.js, and Angular. Experienced in designing secure authentication systems with JWT and Google OAuth 2.0, integrating third-party services such as Razorpay and Stripe, and optimizing applications using PostgreSQL, PostGIS, MongoDB, and search indexing techniques like GIN and fuzzy search.
+Software Developer with 2+ years of professional experience in full-stack and backend development. Proficient in building scalable Node.js and NestJS backend systems and modern frontends using React, Next.js, and Angular. 
+
+Experienced in designing secure authentication systems with JWT and Google OAuth 2.0, integrating third-party services such as Razorpay and Stripe, and optimizing applications using PostgreSQL, PostGIS, MongoDB, and search indexing techniques like GIN and fuzzy search.
 
 Strong knowledge of state management (Redux, NgRx, RxJS), API design, and analytics integration (Google Analytics & Google Tag Manager). Quick learner with foundational knowledge in Python and Flask, focused on building secure, scalable, and maintainable applications.
 
