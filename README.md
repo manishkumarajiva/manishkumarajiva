@@ -45,31 +45,119 @@ Strong knowledge of state management (Redux, NgRx, RxJS), API design, and analyt
 - [Download Resume](https://drive.google.com/uc?export=download&id=1g2stLIJi9whtF6NrNDGo1V0HM1nICiq6)
 
 
-## 📚 **Learning & Development Journey**  
-I'm constantly learning new technologies to keep up with the ever-evolving software development landscape.
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQHyKzTiFpy0Ug/article-cover_image-shrink_720_1280/0/1691621311432?e=2147483647&v=beta&t=ECjOZOJ4EJaUY4FBlXRmxE2MHtIj1W9b7DhBlKuaaDM" height="100" alt="javascript" />
-    <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="100" alt="react" />
-    <img src="https://media.licdn.com/dms/image/C5112AQHKn7lkiq1biQ/article-cover_image-shrink_720_1280/0/1547730409212?e=2147483647&v=beta&t=k0l1bpdroGvYmIO2VhLb--u2FHGMoz5G8oua72AHGSE" height="100" alt="node" />
-  <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="100" alt="Learning 4" />
-  <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="100" alt="mongodb" />
-  <img src="https://wiki.matbao.net/wp-content/uploads/2019/09/mysql-la-gi-mysql-la-mot-he-quan-tri-co-so-du-lieu-quan-he-rat-pho-bien-hien-nay.png" height="100" alt="mysql" />
-  <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/09/17135143/postgresql.jpg" height="100" alt="postgresql" />
+
+## 📚 Learning & Development Journey
+
+<div style="display:flex; padding:20px; flex-wrap:wrap; gap:15px; justify-content:center; background: linear-gradient(135deg, #fffd6e, #ff00bb);">
+
+  <!-- Card -->
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">JavaScript</b><br/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">React</b><br/><br/>
+      <img src="https://strapi.dhiwise.com/uploads/618fa90c201104b94458e1fb_64feb5cad0f3feb3468e13e9_best_resources_to_learn_React_Main_Image_2c7daa739e.jpg" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Node.js</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0eyy5Bpqd_R-oLHsiDl-NzZR2e99iUzTJQ&s" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Next.js</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGlguoY_V13Xw87cmTbBLLDsjY5Vz6hr5sdQ&s" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Express.js</b><br/><br/>
+      <img src="https://cms.liara.ir/wp-content/uploads/2020/09/express-framework-tutorials.png" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">MongoDB</b><br/><br/>
+      <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/12/18103148/mongodb-1400.jpg" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">MySQL</b><br/><br/>
+      <img src="https://wiki.matbao.net/wp-content/uploads/2019/09/mysql-la-gi-mysql-la-mot-he-quan-tri-co-so-du-lieu-quan-he-rat-pho-bien-hien-nay.png" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">PostgreSQL</b><br/><br/>
+      <img src="https://img.helpnetsecurity.com/wp-content/uploads/2023/09/17135143/postgresql.jpg" height="60"/>
+    </div>
+  </div>
+
 </div>
 
 ---
 
-## 🔮 **Technologies I'm Exploring**  
-Here are some of the technologies I am diving into to keep enhancing my skillset.
+## 🔮 Technologies I'm Exploring
 
-<div align="center">
-  <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="100" alt="typescript" />
-  <img src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nrhPCEQlQTQcp57cMpEVLjlASAtdOpjhwg&s" height="100" alt="ng" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fFt1ppGJB2p5Q4XmTqTN7NK1DT_6UcBSpA&s" height="100" alt="python" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwHJs0DluUF2vcM2HMmdPW51qXBGZLCKnnQPl1AJw773XFnqZBgqc7uz8jtm7UK_se-Q&usqp=CAU" height="100" alt="flask" />
-  <img src="https://media.licdn.com/dms/image/D4D12AQHrI71EYZpXjw/article-cover_image-shrink_600_2000/0/1685149709705?e=2147483647&v=beta&t=9X2olt_GONrdGTguvEpafnHl28KZG1jDw_6n3NgRkaw" height="100" alt="Nest.js" />
-  <img src="https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/06/Koa-JS.jpg" height="100" alt="Koa.js" />
+<div style="display:flex; padding:20px; flex-wrap:wrap; gap:15px; justify-content:center;  background: linear-gradient(135deg, #7aff6e, #ff00bb);">
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">TypeScript</b><br/><br/>
+      <img src="https://img-c.udemycdn.com/course/750x422/5564026_f5a4_3.jpg" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Angular</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9zF1PnonvA1r0rLQFHVW2UZyYCBnFWStYQ&s" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Python</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fFt1ppGJB2p5Q4XmTqTN7NK1DT_6UcBSpA&s" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Flask</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwHJs0DluUF2vcM2HMmdPW51qXBGZLCKnnQPl1AJw773XFnqZBgqc7uz8jtm7UK_se-Q&usqp=CAU" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">NestJS</b><br/><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2L61kkpw33D1TGnNBck2YiWVmW3IbUXZDIg&s" height="60"/>
+    </div>
+  </div>
+
+  <div style="width:120px; padding:2px; border-radius:12px; background: linear-gradient(135deg, #ff6ec4, #00ffff);">
+    <div style="background:#0d1117; padding:12px; border-radius:10px; text-align:center;">
+      <b style="color:white;">Koa.js</b><br/><br/>
+      <img src="https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/06/Koa-JS.jpg" height="60"/>
+    </div>
+  </div>
+
 </div>
 
 
